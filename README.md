@@ -12,6 +12,6 @@ Make sure you have Python installed on your system. You can download it from pyt
 Install Libraries
 
 ## Acknowledgements
-googletrans: Python wrapper for Google Translate.
-pyttsx3: Text-to-speech library for Python.
-Tkinter: Standard GUI toolkit for Python.
+* googletrans: Python wrapper for Google Translate.
+* pyttsx3: Text-to-speech library for Python.
+* Tkinter: Standard GUI toolkit for Python.
