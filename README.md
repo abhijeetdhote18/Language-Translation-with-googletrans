@@ -9,7 +9,8 @@ This project is a simple language translator application built using Python. It 
 
 ## Prerequisites
 * Make sure you have Python installed on your system. You can download it from python.org.
-* Install Libraries from lib.py
+* You should have jyupter Notebook
+* Install Libraries from lib.ipynb
 
 ## Acknowledgements
 * googletrans: Python wrapper for Google Translate.
