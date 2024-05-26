@@ -8,7 +8,7 @@ Text-to-Speech: Read the translated text aloud.
 GUI: Simple and user-friendly interface.
 
 ## Prerequisites
-Make sure you have Python installed on your system. You can download it from python.org.\n
+Make sure you have Python installed on your system. You can download it from python.org./n
 Install Libraries from lib.py
 
 ## Acknowledgements
