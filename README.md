@@ -6,5 +6,12 @@ This project is a simple language translator application built using Python. It 
 Text Translation: Translate text from one language to another.
 Text-to-Speech: Read the translated text aloud.
 GUI: Simple and user-friendly interface.
+
 ## Prerequisites
 Make sure you have Python installed on your system. You can download it from python.org.
+Install Libraries
+
+## Acknowledgements
+googletrans: Python wrapper for Google Translate.
+pyttsx3: Text-to-speech library for Python.
+Tkinter: Standard GUI toolkit for Python.
