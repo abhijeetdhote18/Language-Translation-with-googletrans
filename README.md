@@ -9,7 +9,7 @@ This project is a simple language translator application built using Python. It 
 
 ## Prerequisites
 * Make sure you have Python installed on your system. You can download it from python.org.
-* You should have jyupter Notebook
+* You should have juypter Notebook
 * Install Libraries from lib.ipynb
 
 ## Acknowledgements
